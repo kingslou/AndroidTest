@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+   ~ Copyright 2015 Rudson Lima
+
+   ~ Licensed under the Apache License, Version 2.0 (the "License");
+   ~ you may not use this file except in compliance with the License.
+   ~ You may obtain a copy of the License at
+
+   ~ http://www.apache.org/licenses/LICENSE-2.0
+
+   ~ Unless required by applicable law or agreed to in writing, software
+   ~ distributed under the License is distributed on an "AS IS" BASIS,
+   ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+   ~ See the License for the specific language governing permissions and
+   ~ limitations under the License.
+-->
+<resources>
+
+    <string name="app_name">健康食谱</string>
+
+    <string name="sign_in">Sign in</string>
+
+    <string name="inbox">离线</string>
+    <string name="starred">首页</string>
+    <string name="sent_mail">健康知识</string>
+    <string name="drafts">消息</string>
+    <string name="more_markers">+ 附近</string>
+    <string name="trash">医院</string>
+    <string name="spam">药店</string>
+    <string name="settings">设置</string>
+
+    <string name="add">Add</string>
+    <string name="search">Search</string>
+    
+      <string name="loading">加载中…</string>
+    <string name="loading_no_more">已加载全部</string>
+
+    <!-- Toast -->
+    <string name="open_user_profile">Open user profile</string>
+    <string name="open_settings">Open settings</string>
+    <!-- Error View -->
+    <string name="error_view_click_to_refresh">点击屏幕,重新加载</string>
+    <string name="error_view_no_data">暂无内容</string>
+    <string name="error_view_loading">加载中…</string>
+    <string name="error_view_load_error_click_to_refresh">内容加载失败\r\n点击重新加载</string>
+    <string name="error_view_network_error_click_to_refresh">没有可用的网络</string>
+    <string name="tip_network_error">没有可用的网络</string>
+    
+     <string name="favorite_btn_delete">删除</string>
+
+</resources>
